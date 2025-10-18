@@ -125,12 +125,4 @@ streamlit run app/attrition_app.py
 
 ---
 
-
-```
-
----
-
-If you want, I can also **write a compact version** of the README optimized for GitHub that looks **neat and professional** and still highlights all the key points. This one is quite detailed.  
-
-Do you want me to do that?
 ```
