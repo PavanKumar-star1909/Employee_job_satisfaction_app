@@ -1,6 +1,4 @@
----
 
-```markdown
 # Employee Attrition Analysis and Prediction 📊
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -146,14 +144,8 @@ Employee Attrition Analysis and Prediction/
 
 ---
 
+## Contributing
+Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
+
 
 ```
-
----
-
-### Additional Notes
-- **Customization**: Replace placeholders like `your-username`, dataset links, or contact info with your details.
-- **Screenshots**: Add images (e.g., from `plots/`) to the README for visual appeal—use Markdown like `![EDA Plot](plots/correlation_heatmap.png)`.
-- **GitHub Badges**: The badges at the top are optional but make the repo look professional. You can generate more at [shields.io](https://shields.io/).
-- **Testing**: After uploading, ensure the "How to Run" instructions work for others by testing in a fresh environment.
-- **If Issues**: If the Streamlit app code isn't ready, let me know for the full `src/app.py` script.
